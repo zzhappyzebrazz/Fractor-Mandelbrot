@@ -1,0 +1,8 @@
+﻿  FractalCreator.cpp
+C:\Users\user\Documents\Cplusplus\Udemy_c++programming\Fractor Mandelbrot\Fractor Mandelbrot\BitmapFileHeader.h(19,9): warning C4161: #pragma pack(pop...): more pops than pushes
+C:\Users\user\Documents\Cplusplus\Udemy_c++programming\Fractor Mandelbrot\Fractor Mandelbrot\Bitmap.h(5,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\user\Documents\Cplusplus\Udemy_c++programming\Fractor Mandelbrot\Fractor Mandelbrot\BitmapInfoHeader.h(22,9): warning C4161: #pragma pack(pop...): more pops than pushes
+C:\Users\user\Documents\Cplusplus\Udemy_c++programming\Fractor Mandelbrot\Fractor Mandelbrot\FractalCreator.cpp(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\user\Documents\Cplusplus\Udemy_c++programming\Fractor Mandelbrot\Fractor Mandelbrot\FractalCreator.cpp(18,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\Cplusplus\Udemy_c++programming\Fractor Mandelbrot\Fractor Mandelbrot\FractalCreator.cpp(18,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Fractor Mandelbrot.vcxproj -> C:\Users\user\Documents\Cplusplus\Udemy_c++programming\Fractor Mandelbrot\Debug\Fractor Mandelbrot.exe
